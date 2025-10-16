@@ -1,9 +1,0 @@
-list1=[80,20,36,50,90]
-print(list1)
-iterator_list1=iter(list1)
-print(next(iterator_list1))
-print(next(iterator_list1))
-print(next(iterator_list1))
-print(next(iterator_list1))
-print(next(iterator_list1))
-print(next(iterator_list1))
