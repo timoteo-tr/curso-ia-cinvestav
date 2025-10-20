@@ -1,3 +1,6 @@
+""" Dada una lista de números, se determina cuál es el máximo, 
+mínimo y el número de elementos de la lista """
+
 def maximo(sucesion):
     """ Calcula el término máximo de una sucesión dada """
     max = sucesion[0]
