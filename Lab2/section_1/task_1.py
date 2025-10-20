@@ -1,6 +1,6 @@
 '''
 Este programa transforma una variable de tipo str a int, float, bool,
-list y tupla
+list y tupla.
 '''
 
 
