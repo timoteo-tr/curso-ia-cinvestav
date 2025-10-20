@@ -1,4 +1,6 @@
-# Operaciones con enteros (int)
+"""
+Operaciones con enteros (int) y flotantes (float)
+"""
 a = 3 # Si el número va sin punto, es de tipo entero
 b = 5
 print("Operaciones básicas con los números tipo int,",a,"y",b)
