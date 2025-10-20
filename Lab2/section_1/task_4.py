@@ -2,7 +2,7 @@
 Se crea un diccionario anidado donde, para cada estudiante, se le asigna
 una calificación por cada materia que lleva y con base a los datos de la lista
 generada, generar otro diccionario, simple, donde se considere el nombre y 
-el promedio
+el promedio.
 """
 
 List1 = {  # Diccionario anidado
